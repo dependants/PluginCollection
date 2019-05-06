@@ -437,6 +437,12 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
+		},
+		{
+			"name": "GangsPlus",
+			"desc": "Allows you to add gangs wich are useful for pvp!",
+			"jarName": "GangsPlus-2.0.22-SNAPSHOT.jar",
+			"configName": "Gangs+"
 		}
 	]
 }
