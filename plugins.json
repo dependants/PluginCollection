@@ -441,7 +441,7 @@
 		{
 			"name": "EliteMobs"
 			"desc": "New mobs into the world"
-			"jarname": :EliteMobs.jar",
+			"jarname": "EliteMobs.jar",
 			"configName": "EliteMobs"
 		}
 	]
