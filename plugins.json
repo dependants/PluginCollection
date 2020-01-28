@@ -439,9 +439,9 @@
 			"configName": "ChatColor+"
 		},
 		{
-			"name": "EliteMobs"
-			"desc": "New mobs into the world"
-			"jarname": "EliteMobs.jar",
+			"name": "EliteMobs",
+			"desc": "Add new mobs to the World",
+			"jarName": "EliteMobs.jar",
 			"configName": "EliteMobs"
 		}
 	]
