@@ -437,6 +437,12 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
+		},
+		{
+			"name": "EliteMobs"
+			"desc": "New mobs into the world"
+			"jarname": :EliteMobs.jar",
+			"configName": "EliteMobs"
 		}
 	]
 }
