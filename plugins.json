@@ -433,10 +433,16 @@
 			"configName": "AutoColor"
 		},
 		{
+		
 			"name": "ChatColor+",
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
 		}
-	]
+	],
+	{
+		"name": "RandomItemsPer10Seconds"
+		"desc": "Gives players a random item every ten seconds".
+		"jarName": "
+	}
 }
