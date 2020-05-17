@@ -443,6 +443,7 @@
 	{
 		"name": "RandomItemsPer10Seconds"
 		"desc": "Gives players a random item every ten seconds".
-		"jarName": "
+		"jarName": "RandomItems.jar",
+		"configName": "RandomItems"
 	}
 }
