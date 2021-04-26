@@ -437,6 +437,12 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
+		},
+		{
+			"name": "SkinRestorer",
+			"desc": "simple skin changer",
+			"jarName": "SkinsRestorer.jar",
+			"configName": "SkinRestorer"
 		}
 	]
 }
